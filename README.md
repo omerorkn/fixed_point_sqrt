@@ -1,5 +1,5 @@
 # fixed_point_sqrt
-Square Root Calculator w/Fixed Point Feature
+Square Root Calculator w/Fixed Point Feature 
 
 - Engineer : omerorkn
 
